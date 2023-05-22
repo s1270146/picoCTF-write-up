@@ -1,1 +1,6 @@
-# picoCTF-write-up
+# picoCTF
+
+## 概要
+
+https://picoctf.org/ の問題を解いたものをこのリポジトリに挙げていく
+問題の種類によってフォルダを分けている
